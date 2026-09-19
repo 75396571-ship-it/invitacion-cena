@@ -23,27 +23,27 @@ export const STEPS = [
   },
   {
     type: "photo",
-    image: "/images/photo-1.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-1.jpg`,
   },
   {
     type: "photo",
-    image: "/images/photo-2.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-2.jpg`,
   },
   {
     type: "photo",
-    image: "/images/photo-3.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-3.jpg`,
   },
   {
     type: "photo",
-    image: "/images/photo-4.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-4.jpg`,
   },
   {
     type: "photo",
-    image: "/images/photo-5.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-5.jpg`,
   },
   {
     type: "photo",
-    image: "/images/photo-6.jpg",
+    image: `${import.meta.env.BASE_URL}images/photo-6.jpg`,
   },
   {
     type: "question",
